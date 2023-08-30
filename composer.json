@@ -1,15 +1,20 @@
 {
-  "name": "nigilariver/module-core",
-  "description": "Riverstone Core for Magento 2",
-  "type": "magento2-module",
-  "version": "1.0.0",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "Riverstone",
-      "email": "nigila@riverstonetech.in",
-      "homepage": "http://localhost.com/",
-      "role": "Technical Support"
+    "name": "nigilariver/module-core",
+    "description": "Test Package",
+    "type": "test-package",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Test",
+        "email": "nigila@riverstonetech.in",
+        "homepage": "https://localhost.com",
+        "role": "Test Support"
+      }
+    ],
+    "autoload": {
+      "files": [
+        "index.php"
+      ]
     }
-  ]
-}
+  }
