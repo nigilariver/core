@@ -17,7 +17,7 @@
         "index.php"
       ]
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "vcs",
