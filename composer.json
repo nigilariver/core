@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "files": [
-      "registration.php"
+      "index.php"
     ]
   }
 }
